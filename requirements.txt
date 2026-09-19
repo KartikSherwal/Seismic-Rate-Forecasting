@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+requests
+joblib
+xgboost
+
+# Only needed for the LSTM cells in earthquake_forecasting_lstm.ipynb;
+# everything else in this repo runs without it.
+# tensorflow
